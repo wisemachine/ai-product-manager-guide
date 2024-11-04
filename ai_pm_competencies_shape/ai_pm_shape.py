@@ -6,14 +6,14 @@ import numpy as np
 ai_ml_skills = [
     "Machine Learning Algorithms", "Data Preprocessing", "Model Evaluation and Tuning",
     "Feature Engineering", "Hyperparameter Optimization", "Natural Language Processing (NLP)", "Deep Learning",
-    "Large Language Models", "RAG and Fine Tuning", "Data Visualization", "MLOps", "LLMOps",
+    "Large Language Models", "RAG and Fine Tuning", "Data Visualization", "MLOps", "LLMOps", 
     "Computer Vision", "Conversational AI", "AI Governance, Ethics and Fairness"
 ]
 
 pm_skills = [
-    "Feature Specification and Prioritization", "Product Delivery", "Validation and Quality Assurance",
+    "Feature Specification and Prioritization", "Product Delivery", "Validation and Quality Assurance", "Prompt Engineering", "Low-Code/No-Code",
     "Fluency with Data", "Voice of Customer", "User Experience (UX) Design", 
-    "Business Outcome Ownership", "Product Vision and Roadmapping", "Strategic Impact",
+    "Business Outcome Ownership", "Product Vision and Roadmapping", "Strategic Impact", "Positioning and Messaging",
     "Managing Up", "Stakeholder Engagement", "Team Leadership"
 ]
 
